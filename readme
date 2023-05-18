@@ -1,0 +1,7 @@
+This is my first git file. THis is just a test. 
+
+# to monitor the file
+git status
+
+#to stage a file
+git add <filename>

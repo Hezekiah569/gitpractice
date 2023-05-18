@@ -1,4 +1,4 @@
-This is my first git file. THis is just a test. 
+This is my first git file. This is just a test. 
 
 # to monitor the file
 git status
@@ -7,3 +7,5 @@ git status
 git add <filename>
 #to commit a file
 git commit -m "message"
+
+git push -u origin master

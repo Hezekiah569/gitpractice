@@ -5,3 +5,5 @@ git status
 
 #to stage a file
 git add <filename>
+#to commit a file
+git commit -m "message"
